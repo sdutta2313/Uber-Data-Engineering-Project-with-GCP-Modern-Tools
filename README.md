@@ -35,7 +35,7 @@ Developed a modern data engineering project on the Uber dataset using Google Clo
 
 11._**Complete Data Loader Pipeline**_: After completing the third pipeline, navigate to BigQuery and refresh the data to preview the connected data.
 
-12._**Data Visualization**_: Utilize Looker or Data Studio to create visualizations and analyze the Uber dataset.
+12._**Data Visualization**_: Utilize Looker or Data Studio to create visualizations and analyze the Uber dataset for the Dataset created by using the 'analytics_query.sql'.
 # Dependencies for the Project
   **-pandas**
   
