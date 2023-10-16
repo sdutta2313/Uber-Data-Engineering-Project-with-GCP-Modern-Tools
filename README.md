@@ -46,6 +46,6 @@ Developed a modern data engineering project on the Uber dataset using Google Clo
   **-Google Cloud BigQuery project**
 # License
 This project is licensed under the [MIT License](LICENSE).
-![image](https://github.com/sdutta2313/Uber-Data-Engineering-Project-with-GCP-Modern-Tools/assets/82588975/07b1417e-28cf-4d07-9eff-1f23cdd6ed4c)
+<img src="https://github.com/sdutta2313/Uber-Data-Engineering-Project-with-GCP-Modern-Tools/assets/82588975/16b0c32e-4aa2-4bd1-bd3b-989297cf5ee4" width="80%" />
 
 
