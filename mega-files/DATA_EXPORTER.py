@@ -1,26 +1,19 @@
-import io
-import pandas as pd
-import requests
-if 'data_loader' not in globals():
-    from mage_ai.data_preparation.decorators import data_loader
-if 'test' not in globals():
-    from mage_ai.data_preparation.decorators import test
+from pandas import DataFrame
+if 'data_exporter' not in globals():
+    from mage_ai.data_preparation.decorators import data_exporter
 
+@data exporter
+def export_data_to_big_query(data, **kwargs) → None:
+"""
+Template for exporting data to a BigQuery warehouse. 
+Specify your configuration settings in 'io_config.yaml'
+Docs: https://docs.mage.al/design/data-loading bigquery
+"""
 
-@data_loader
-def load_data_from_api(*args, **kwargs):
-    """
-    Template for loading data from API
-    """
-    url = 'https://storage.googleapis.com/uber-data-engineering-project-sss/data.csv'
-    response = requests.get(url)
-
-    return pd.read_csv(io.StringIO(response.text), sep=',')
-
-
-@test
-def test_output(output, *args) -> None:
-    """
-    Template code for testing the output of the block.
-    """
-    assert output is not None, 'The output is undefined'
+table_id = 'coral-circlet-401816.uber_data_engineering yt.fact_table'
+config_path= path.join(get_repo_path(), 'io_config.yaml') 
+config profile = 'default'
+BigQuery.with config(ConfigFileLoader(config_path, config profile)).export(
+    DataFrame(data['fact_table']), 
+    table_id, if_exists='replace',
+)
