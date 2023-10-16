@@ -31,11 +31,11 @@ Developed a modern data engineering project on the Uber dataset using Google Clo
 
 9._**Connect to DataExporter**_: Connect the data transformation pipeline to the DataExporter module to export the transformed data to Google BigQuery.
 
-10._**Configure io_config.yaml**:_ Access GCP, open API services, and create a new service account. Download the service account key in JSON format and copy the JSON data into the io_config.yaml file. This step ensures secure access to GCP services.
+10._**Configure io_config.yaml**:_ Access GCP, open API services, and create a new service account. Download the service account key in JSON format and copy the JSON data into the `io_config.yaml` file. This step ensures secure access to GCP services.
 
 11._**Complete Data Loader Pipeline**_: After completing the third pipeline, navigate to BigQuery and refresh the data to preview the connected data.
 
-12._**Data Visualization**_: Utilize Looker or Data Studio to create visualizations and analyze the Uber dataset for the Dataset created by using the 'analytics_query.sql'.
+12._**Data Visualization**_: Utilize Looker or Data Studio to create visualizations and analyze the Uber dataset for the Dataset created by using the `analytics_query.sql`.
 # Dependencies for the Project
   **-pandas**
   
