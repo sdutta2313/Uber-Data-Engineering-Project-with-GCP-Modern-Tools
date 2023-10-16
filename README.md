@@ -4,6 +4,7 @@ Developed a modern data engineering project on the Uber dataset using Google Clo
 1._**Create Bucket:**_ Create a storage bucket in GCP to store the project files.
 
 2._**Create Instance**_: Set up a GCP compute instance with the following specifications:
+
   -CPU: e2 standard 16
   
   -8 core CPU
@@ -13,6 +14,7 @@ Developed a modern data engineering project on the Uber dataset using Google Clo
 3._**SSH Connection**_: Establish an SSH connection to the GCP compute instance.
 
 4._**Run Command**_: Execute the commands provided in the command.txt file from the GitHub repository to install Python3 and the required libraries, including:
+
   **-pandas**
   
   **-mage.ai**
