@@ -32,11 +32,8 @@ Developed a modern data engineering project on the Uber dataset using Google Clo
 12._**Data Visualization**_: Utilize Looker or Data Studio to create visualizations and analyze the Uber dataset.
 # Dependencies for the Project
   -pandas
-
   -mage.ai
-  
   -Google Cloud SDK
-  
   -Google Cloud BigQueryroject
 # License
 This project is licensed under the [MIT License](LICENSE).
