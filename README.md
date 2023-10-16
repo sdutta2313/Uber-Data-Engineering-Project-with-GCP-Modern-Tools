@@ -46,11 +46,27 @@ Developed a modern data engineering project on the Uber dataset using Google Clo
   **-Google Cloud BigQuery project**
 # License
 This project is licensed under the [MIT License](LICENSE).
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.o1 {
+  float: right;
+  width: 33.33%;
+  padding: 5px;
+}
+</style>
+</head>
+<body>
 <div class="banner">
-   <div class="o1" style="float: left width: 33.33%" ><img src = "https://github.com/sdutta2313/Uber-Data-Engineering-Project-with-GCP-Modern-Tools/assets/82588975/16b0c32e-4aa2-4bd1-bd3b-989297cf5ee4" style="width:100%">
+   <div class="o1"><img src = "https://github.com/sdutta2313/Uber-Data-Engineering-Project-with-GCP-Modern-Tools/assets/82588975/16b0c32e-4aa2-4bd1-bd3b-989297cf5ee4" style="width:100%">
    </div>
-   <div class="o1" style="float: left width: 33.33%" ><img src="https://github.com/sdutta2313/Uber-Data-Engineering-Project-with-GCP-Modern-Tools/assets/82588975/d5b2a823-a7c6-45c2-a90b-9a8b9f87ef01" style="width:100%">
+   <div class="o1" ><img src="https://github.com/sdutta2313/Uber-Data-Engineering-Project-with-GCP-Modern-Tools/assets/82588975/d5b2a823-a7c6-45c2-a90b-9a8b9f87ef01" style="width:100%">
    </div>
 </div>
-
+</body>
+</head>
 
