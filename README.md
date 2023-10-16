@@ -48,10 +48,8 @@ Developed a modern data engineering project on the Uber dataset using Google Clo
 This project is licensed under the [MIT License](LICENSE).
 
 
-<div class="banner">
-   <div style="float:right width:70%" ><img src = "https://github.com/sdutta2313/Uber-Data-Engineering-Project-with-GCP-Modern-Tools/assets/82588975/16b0c32e-4aa2-4bd1-bd3b-989297cf5ee4"  >
-   </div>
-   <div  float:right ><img src="https://github.com/sdutta2313/Uber-Data-Engineering-Project-with-GCP-Modern-Tools/assets/82588975/d5b2a823-a7c6-45c2-a90b-9a8b9f87ef01" style="width:50% ">
-   </div>
-</div>
+
+   <p style="float:left" ><img src = "https://github.com/sdutta2313/Uber-Data-Engineering-Project-with-GCP-Modern-Tools/assets/82588975/16b0c32e-4aa2-4bd1-bd3b-989297cf5ee4" width="100"><img src="https://github.com/sdutta2313/Uber-Data-Engineering-Project-with-GCP-Modern-Tools/assets/82588975/d5b2a823-a7c6-45c2-a90b-9a8b9f87ef01" width="100" >
+   
+</p>
 
