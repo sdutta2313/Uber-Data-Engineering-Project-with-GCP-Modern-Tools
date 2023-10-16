@@ -23,7 +23,7 @@ Developed a modern data engineering project on the Uber dataset using Google Clo
   
 5._**Start Mage.ai Project**_: Launch the Maze.ai project on port 6789 and access it through the external IP provided by the GCP instance.
 
-6._**Update Firewall Rule**_: Modify the firewall rule to allow access to the Maze.ai dashboard via the external IP and port.
+6._**Update Firewall Rule**_: Modify the firewall rule to allow access to the Mage.ai dashboard via the external IP and port.
 
 7._**Create Data Loader Pipeline**_: Set up a data loading pipeline to import the Uber dataset into the project.
 
@@ -46,12 +46,10 @@ Developed a modern data engineering project on the Uber dataset using Google Clo
   **-Google Cloud BigQuery project**
 # License
 This project is licensed under the [MIT License](LICENSE).
-<p float="right"display: inline-block>
-  
-<img src="https://github.com/sdutta2313/Uber-Data-Engineering-Project-with-GCP-Modern-Tools/assets/82588975/16b0c32e-4aa2-4bd1-bd3b-989297cf5ee4" width="40%" />
-<p float="left" display: inline-block><img src="https://github.com/sdutta2313/Uber-Data-Engineering-Project-with-GCP-Modern-Tools/assets/82588975/d5b2a823-a7c6-45c2-a90b-9a8b9f87ef01" width="40%"/></p>
-
-
-</p>
+<div >
+<div display: inline-block>
+<img src="https://github.com/sdutta2313/Uber-Data-Engineering-Project-with-GCP-Modern-Tools/assets/82588975/16b0c32e-4aa2-4bd1-bd3b-989297cf5ee4" width="40%" /></div>
+<div float="left" display: inline-block><img src="https://github.com/sdutta2313/Uber-Data-Engineering-Project-with-GCP-Modern-Tools/assets/82588975/d5b2a823-a7c6-45c2-a90b-9a8b9f87ef01" width="40%"/></div>
+</div>
 
 
